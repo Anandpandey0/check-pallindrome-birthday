@@ -1,0 +1,33 @@
+#body{
+    display: block;
+    /* border: solid 2px red; */
+    align-items: center;
+    text-align: center;
+    font-size: larger;
+
+}
+#input > *{
+    margin: 2rem 10rem;
+}
+label{
+    display: block;
+    font-weight: bolder;
+
+}
+input{
+    height: 2rem;
+    width: 15rem;
+    border-radius: 20px;
+    border: solid 8px rgb(209, 153, 49);
+}
+#check-btn{
+    height: fit-content;
+    width: 7rem;
+    text-align: center;
+    font-size: larger;
+    border-radius: 20px;
+    border: solid 8px plum;
+    color: black;
+    font-weight: bolder;
+
+}
